@@ -1,1 +1,1 @@
-# Sistemas-Embarcados-2-2018
+# Projeto de um leitor de código de barras
